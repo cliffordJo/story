@@ -1,0 +1,1 @@
+ok this is used to help me better understand git git init , add comit ,log
